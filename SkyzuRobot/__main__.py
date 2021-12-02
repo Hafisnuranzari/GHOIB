@@ -83,8 +83,9 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *Hello {} !*
 ────────────────────────
-✪ I'm an anime theme bot designed to help manage your telegram group with a lot features.
-✪ Maintained by @xyfckngyz ✨
+✪ I'm an Jamet yg siap memberantas para jamet di dunia pertelean.
+✪ By @xyfckngyz ✨
+✪ Kalo mau pake join sini kntl @skuyaphrodite
 ────────────────────────
 Hit the /help to see available command.
 """
@@ -101,10 +102,10 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​", url="https://github.com/Hafisnuranzari/JametRobot"
+            text="JOIN SINI TOD", url="https://t.me/skuyaphrodite"
         ),
         InlineKeyboardButton(
-            text="sᴜᴘᴘᴏʀᴛ​", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="sᴜᴘᴘᴏʀᴛ​", url=f"https://t.me/yumutualanaphrodite"
         ),
     ],
     [
