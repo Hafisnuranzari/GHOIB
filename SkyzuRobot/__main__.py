@@ -84,8 +84,8 @@ PM_START_TEXT = """
 *Hello {} !*
 ────────────────────────
 ✪ I'm an Jamet yg siap memberantas para jamet di dunia pertelean.
-✪ By @xyfckngyz ✨
-✪ Kalo mau pake join sini kntl @skuyaphrodite
+✪ By xyfckngyz ✨
+✪ Kalo mau pake join sini kntl skuyaphrodite
 ────────────────────────
 Hit the /help to see available command.
 """
