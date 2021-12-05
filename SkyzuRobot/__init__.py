@@ -293,3 +293,4 @@ from SkyzuRobot.modules.helper_funcs.handlers import (
 tg.RegexHandler = CustomRegexHandler
 tg.CommandHandler = CustomCommandHandler
 tg.MessageHandler = CustomMessageHandler
+/app/.heroku/python/lib/python3.9/logging
