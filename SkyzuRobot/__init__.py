@@ -80,7 +80,7 @@ if ENV:
     API_ID = os.environ.get("API_ID", None)
     API_HASH = os.environ.get("API_HASH", None)
     SESSION_STRING = os.environ.get("SESSION_STRING", None)
-    STRING_SESSION = os.environ.get("STRING_SESSION", None)
+    STRING_SESSION = os.environ.get("STRING_SESSION", BQB94oExxg88ekkE_eZPaKHTALiiL5LQK1MjavNz_uI8rnfPTEwZcmkZOi7Xqs_o2C8qx6GTUEsh2BXkjmnJFJyUiKT3yMoslbuIvP9FaI3N4g5aJ8avngZ7OVbNQs6MszcmD_rST1bKlT2hbRKR-j8NINMQloDAcYsk0C1_VCqrUjvFDvzK9z6SOJcm9zw_twgeJnGzltAvO2rT543m_7OsLtbLunRGBFqB_rKbqQeZ8Id4dvYf8EQvEhr8ElONztzc3tPGqCr7QAilxk5vJinEP2ICUimsj_7SxNtFL0E7nleD6eFiaH4gD4iyrdyyqNtoXya4K73yKfgpc1fSokt3fkZxkAA)
     DB_URI = os.environ.get("DATABASE_URL")
     REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
