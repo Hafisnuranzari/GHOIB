@@ -27,7 +27,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger(jamet)
 
 # if version < 3.6, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 6:
@@ -293,4 +293,4 @@ from SkyzuRobot.modules.helper_funcs.handlers import (
 tg.RegexHandler = CustomRegexHandler
 tg.CommandHandler = CustomCommandHandler
 tg.MessageHandler = CustomMessageHandler
-/app/.heroku/python/lib/python3.9/logging
+
