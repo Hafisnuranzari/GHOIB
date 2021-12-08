@@ -17,12 +17,12 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger(___hapis___)
 
-# if version < 3.6, stop bot.
+# if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 6:
     LOGGER.error(
-        "You MUST have a python version of at least 3.6! Multiple features depend on this. Bot quitting."
+        "You MUST have a python version of at least 3.9! Multiple features depend on this. Bot quitting."
     )
     quit(1)
 
