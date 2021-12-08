@@ -1,6 +1,6 @@
 {
-      "name": "Skyzu Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "ghoib",
+      "description": "INI BOT BUAT NGEWS",
       "keywords": [
          "telegram",
          "advance",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/56811b69cbcece20bbebf.jpg",  
-   "repository": "https://github.com/Hafisnuranzari/JametRobot",
+   "repository": "https://github.com/Hafisnuranzari/GHOIB",
    "addons": [
           {
          "options": {
